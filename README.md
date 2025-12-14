@@ -1,2 +1,0 @@
-# Kinematics
-portfolio website
